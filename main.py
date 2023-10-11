@@ -20,6 +20,6 @@ def speak_recognition():
     except:
         print("Sorry could not recognize what you said")
         exit(0)
-
+#wip makes audio work on linux
 if __name__ == '__main__':
     speak_recognition()
