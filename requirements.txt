@@ -1,4 +1,4 @@
-pyttsx3
+gTTS
 pyaudio
 datetime
 webbrowser
